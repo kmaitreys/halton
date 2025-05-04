@@ -1,1 +1,1 @@
-Simple quasi-random number generator based on Halton sequence. Adapted from the GSL (GNU Scientific Library).
+Simple quasi-random number generator based on Halton sequence in Rust. Adapted from the GSL (GNU Scientific Library). A simple benchmark with C version also included.
